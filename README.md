@@ -1,4 +1,4 @@
-### Ohayo Onii-chan!! 👋
+### Ohayo!! 👋
 Eu sou o Pabllo Eduardo, sou recém-chegado no mundo da programação, mas, estou avançando a cada dia com muito foco e dedicação!!
 
  <div>
