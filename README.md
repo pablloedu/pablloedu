@@ -6,10 +6,14 @@ Eu sou o Pabllo Eduardo, sou recém-chegado no mundo da programação, mas, esto
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=pablloedu&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablloedu&layout=compact&langs_count=7&theme=monokai"/>
    <h4>Linguagens:</h4>
-   
 </div>  
 <div style="display: inline_block"><br>
     <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+    <img align="center" alt="Django" height="30" width="30" src="https://hackr.io/tutorials/learn-django/logo/logo-django?ver=1610114943">
+    <img align="center" alt="Django" height="30" width="30" src="https://miro.medium.com/max/724/1*kR89JbQQK9aAkNVyxE63pg.png">
+    <img align="center" alt="MySQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
+    <img align="center" alt="Pandas" height="40" width="40" src="https://pandas.pydata.org/static/img/favicon_white.ico">
+    <img align="center" alt="Numpy" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg">
     
   <!--<img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
