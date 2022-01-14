@@ -5,7 +5,7 @@ Eu sou o Pabllo Eduardo, sou recém-chegado no mundo da programação, mas, esto
   <a href="https://github.com/pablloedu">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=pablloedu&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablloedu&layout=compact&langs_count=7&theme=monokai"/>
-   <h4>Linguagens:</h4>
+   <h4>Tecnologias:</h4>
 </div>  
 <div style="display: inline_block"><br>
     <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
