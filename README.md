@@ -13,7 +13,6 @@ Eu sou o Pabllo Eduardo, sou recém-chegado no mundo da programação, mas, esto
     <img align="center" alt="Django" height="30" width="30" src="https://miro.medium.com/max/724/1*kR89JbQQK9aAkNVyxE63pg.png">
     <img align="center" alt="MySQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
     <img align="center" alt="Pandas" height="40" width="40" src="https://pandas.pydata.org/static/img/favicon_white.ico">
-    <img align="center" alt="Numpy" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg">
     <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     
   <!--
