@@ -1,6 +1,6 @@
-### Ohayo!! 👋
-Eu sou o Pabllo Eduardo, sou recém-chegado no mundo da programação, mas, estou avançando a cada dia com muito foco e dedicação!!
-
+### Olá!! 👋
+Me chamo Pabllo Eduardo, sou desenvolvedor backend com o único objetivo de sempre avançar cada vez mais, visando o bem da minha comunidade. Apesar de conhecer algumas das ferramentas para Data Science, meu foco atual é no Desenvolvimento Web.
+<p>💬 Fun fact: Sou assumidamente um Otáku!</p>
  <div>
   <a href="https://github.com/pablloedu">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=pablloedu&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/>
@@ -35,6 +35,7 @@ Eu sou o Pabllo Eduardo, sou recém-chegado no mundo da programação, mas, esto
 <!--  <a href = "mailto:pablloedu@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> -->
   <a href="https://www.linkedin.com/in/pablloedu/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+ 
  
 <!--
 **pablloedu/pablloedu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
